@@ -1,14 +1,14 @@
 {
-  "name": "parcel-antd",
+  "name": "example-js-parcel-antd",
+  "author": "afc163<afc163@gmail.com>",
   "version": "1.0.0",
   "description": "Use antd in parcel",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html --no-cache"
   },
   "keywords": [],
-  "author": "afc163<afc163@gmail.com>",
-  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.0.0-0",
     "@babel/preset-env": "^7.4.5",
